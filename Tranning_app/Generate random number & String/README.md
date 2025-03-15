@@ -29,8 +29,8 @@ When you run the program, you will be asked to choose between:
 Contributions and improvements are welcome! If you'd like to contribute, feel free to open a **Pull Request**.
 
 ## Author
-👤 **[Your Name]**  
-📧 [Your Email]  
+👤 **[Amr khaled]**  
+📧 [amrkhaledelsisy@gmail.com]  
 🔗 [GitHub Profile](https://github.com/amrkhaled104)
 
 ---
