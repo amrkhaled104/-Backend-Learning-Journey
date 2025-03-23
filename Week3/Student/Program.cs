@@ -14,7 +14,8 @@ namespace Week3
                 {
                     Console.WriteLine("Invalid input. Please enter a valid number of students.");
                 }
-                break;
+                else { break; }
+               
             }
 
             Console.WriteLine("\nNow Enter Data:");
